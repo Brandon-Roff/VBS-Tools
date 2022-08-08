@@ -14,7 +14,7 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/brandon-roff/VBS-Tools?color=green">
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/brandon-roff/VBS-Tools?color=green">
 <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/brandon-roff/VBS-Tools">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brandon-roff/sVBS-Tools">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brandon-roff/VBS-Tools">
 </p>
 
 > Ensure you have git installed...
